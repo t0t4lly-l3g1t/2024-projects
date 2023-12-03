@@ -1,0 +1,13 @@
+- Raspberri Pi K8s cluster.
+-- What should I use this for? 
+- Complete CloudGoat Scenarios and writeups. 
+- Work on Sadcloud
+- Work on PurpleCloud
+- AWS Alerts for CloudGoat Scenarios
+- META CTF Level 10
+- Create site on AWS using TF. 
+- Put site behind CloudFlare or AWS WAF (using TF).  
+- Rebuild WiFi network using enterprise gear. 
+- Run another cable from office to basement. 
+- Rack everything. 
+- Rebuild my NAS. 
