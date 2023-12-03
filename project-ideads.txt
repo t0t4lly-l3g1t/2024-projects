@@ -1,5 +1,6 @@
 - Raspberri Pi K8s cluster.
 -- What should I use this for? 
+- Migrate repos our of GitLab and into GitHub.
 - Complete CloudGoat Scenarios and writeups. 
 - Work on Sadcloud
 - Work on PurpleCloud
