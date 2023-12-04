@@ -1,3 +1,4 @@
+- CS50 Python https://www.youtube.com/watch?v=nLRL_NcnK-4
 - Raspberri Pi K8s cluster.
 -- What should I use this for? 
 - Migrate repos our of GitLab and into GitHub.
