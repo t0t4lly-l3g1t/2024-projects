@@ -1,3 +1,4 @@
+- https://aws.amazon.com/certification/certified-security-specialty/
 - CS50 Python https://www.youtube.com/watch?v=nLRL_NcnK-4
 - Raspberri Pi K8s cluster.
 -- What should I use this for? 
